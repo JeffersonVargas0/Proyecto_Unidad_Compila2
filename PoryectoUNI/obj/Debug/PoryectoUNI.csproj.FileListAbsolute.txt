@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\bin\Debug\PoryectoUNI.exe.config
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\bin\Debug\PoryectoUNI.exe
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\bin\Debug\PoryectoUNI.pdb
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\bin\Debug\GMap.NET.Core.dll
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.Form1.resources
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.Properties.Resources.resources
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\Poryecto.1952D4D1.Up2Date
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.exe
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.pdb
+C:\Users\HP\source\repos\PoryectoUNI\PoryectoUNI\obj\Debug\PoryectoUNI.exe.config
